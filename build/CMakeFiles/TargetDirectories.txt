@@ -1,0 +1,4 @@
+C:/Users/rjeev/Documents/c++ project/chat/build/CMakeFiles/server.dir
+C:/Users/rjeev/Documents/c++ project/chat/build/CMakeFiles/client.dir
+C:/Users/rjeev/Documents/c++ project/chat/build/CMakeFiles/edit_cache.dir
+C:/Users/rjeev/Documents/c++ project/chat/build/CMakeFiles/rebuild_cache.dir
